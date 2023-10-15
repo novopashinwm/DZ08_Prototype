@@ -1,0 +1,6 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/DZ08_Prototype/.vs/DZ08_Prototype
+/DZ08_Prototype/DZ08_Prototype/obj
